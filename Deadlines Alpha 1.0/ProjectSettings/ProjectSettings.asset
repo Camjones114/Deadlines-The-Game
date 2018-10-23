@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 6082b2571b5aec54ca3e9e17c8963684
+  productGUID: 98e053d1828261e40a342dc48ff4527c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -633,8 +633,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: e8428690-a6c0-4366-831f-2bfa8861bf64
-  projectName: Deadlines Alpha 1.0
+  cloudProjectId: dcbec561-166e-45bc-9871-ddca1a92a327
+  projectName: Deadlines Alpha 1.0 (1)
   organizationId: itscam
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
